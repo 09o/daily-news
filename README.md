@@ -5,7 +5,6 @@
 ---
 ## 预览
 
-<<<<<<< HEAD
 <img src="./preview/index.png" width="300" />
 <img src="./preview/morebtn.png" width="300" />
 <img src="./preview/article.png" width="300" />
