@@ -5,7 +5,11 @@
 ---
 ## 预览
 
+<<<<<<< HEAD
 <img src="./preview/index.png" width="300" />
+=======
+<img src="./preview/ome.png" width="300" />
+>>>>>>> 7711b9be2b5a94593bbf399607f56c08cd8520d2
 <img src="./preview/morebtn.png" width="300" />
 <img src="./preview/article.png" width="300" />
 <img src="./preview/themes.png" width="300" />
