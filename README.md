@@ -5,7 +5,7 @@
 ---
 ## 预览
 
-<img src="./preview/home.png" width="300" />
+<img src="./preview/ome.png" width="300" />
 <img src="./preview/morebtn.png" width="300" />
 <img src="./preview/article.png" width="300" />
 <img src="./preview/themes.png" width="300" />
